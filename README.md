@@ -13,7 +13,7 @@
 * **Institusi:** Program Studi Sistem Informasi, Universitas Mulawarman
 * **Asisten Laboratorium:**
   * Muhammad Davi Aditya Pratama (NIM. 2509116070)
-  * Hanif Amelia Putri (NIM. 2509116075)
+  * Hanif Amelia Putri (NIM. 2509116075) 
 
 ---
 
@@ -43,7 +43,7 @@ Dari sisi pemilik, pencatatan data kamar, penyewa, dan pembayaran sering dilakuk
 5. Bagaimana menyimpan seluruh data ke dalam file JSON agar data tetap persisten setelah aplikasi ditutup?
 
 ### Batasan Masalah
-* Hanya memiliki 2 role pengguna: Admin (Pemilik Kost) dan Penyewa.
+* Hanya memiliki 2 role pengguna: Admin (Pemilik Kost) dan User (Penyewa).
 * Pembayaran dilakukan menggunakan saldo internal aplikasi (simulasi top-up), tidak terhubung ke payment gateway asli.
 * Penyimpanan data menggunakan file lokal berformat JSON (users.json, rooms.json, transactions.json, prices.json).
 
