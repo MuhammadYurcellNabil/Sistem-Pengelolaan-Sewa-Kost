@@ -62,26 +62,25 @@ Dari sisi pemilik, pencatatan data kamar, penyewa, dan pembayaran sering dilakuk
 
 ## 4. Analisis Teknis & Library Python
 
-Aplikasi ini dibangun menggunakan bahasa pemrograman Python 3 dengan memanfaatkan modul/library berikut:
-* `json`: Membaca dan menyimpan database lokal dalam format JSON.
-* `os`: Membersihkan tampilan layar terminal (cls / clear) agar antarmuka rapi.
-* `pwinput`: Menyembunyikan input kata sandi/password dengan karakter mask (***).
-* `prettytable`: Menampilkan data berbentuk tabel yang rapi di terminal CLI.
+* `json`: Membaca dan menyimpan database user atau admin dalam format JSON.
+* `os`: Membersihkan tampilan layar terminal agar terminal rapi.
+* `pwinput`: Menyembunyikan input password dengan karakter (***).
+* `prettytable`: Menampilkan data berbentuk tabel yang rapi di terminal.
 * `datetime`: Mengambil stempel waktu real-time untuk penomoran ID transaksi dan invoice.
 
 ---
 
 ## 5. Flowchart & Alur Logika Sistem
 
-[ START ]
-  │
-  ▼
-[ Tampilan Utama ]
-  ├──> (1) Login ──────> [ Autentikasi User / Admin ]
-  │                           ├── Admin  ──> [ Menu Utama Admin ]
-  │                           └── User   ──> [ Menu Utama User ]
-  ├──> (2) Registrasi ──> [ Buat Akun Baru (Password Angka) ]
-  └──> (3) Keluar ─────> [ END ]
+<img width="1812" height="1032" alt="flowchart terbaru-Page-1 drawio" src="https://github.com/user-attachments/assets/114feae3-4faf-4c50-9b15-65a901ab2a04" />
+
+
+<img width="4812" height="1622" alt="flowchart terbaru-Halaman-2 drawio" src="https://github.com/user-attachments/assets/b21da00a-c56a-429c-8b79-0e7e83815cd7" />
+
+
+<img width="2022" height="1947" alt="flowchart terbaru-Halaman-3 drawio" src="https://github.com/user-attachments/assets/442ee031-0bbd-4506-90a9-4adfee9a3f13" />
+
+
 
 ---
 
