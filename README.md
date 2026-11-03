@@ -43,7 +43,6 @@ Dari sisi pemilik, pencatatan data kamar, penyewa, dan pembayaran sering dilakuk
 5. Bagaimana menyimpan seluruh data ke dalam file JSON agar data tetap persisten setelah aplikasi ditutup?
 
 ### Batasan Masalah
-* Aplikasi berbasis CLI (Command Line Interface).
 * Hanya memiliki 2 role pengguna: Admin (Pemilik Kost) dan Penyewa.
 * Pembayaran dilakukan menggunakan saldo internal aplikasi (simulasi top-up), tidak terhubung ke payment gateway asli.
 * Penyimpanan data menggunakan file lokal berformat JSON (users.json, rooms.json, transactions.json, prices.json).
