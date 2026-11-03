@@ -1,4 +1,4 @@
-# Sewa Kost In — Sistem Pengelolaan Sewa Kost Berbasis Python & JSON
+# Sistem Pengelolaan Sewa Kost (JURAGAN CODE)
 
 > Proyek Akhir Praktikum Dasar-Dasar Pemrograman (DDP)  
 > Program Studi Sistem Informasi — Fakultas Teknik, Universitas Mulawarman (2026)
@@ -7,13 +7,13 @@
 
 ## 1. Judul & Tema Proyek
 
-* **Judul Aplikasi:** Sewa Kost In
-* **Tema Utama:** Sistem Informasi Pengelolaan Sewa Kost Berbasis CLI (Command Line Interface) dan File Storage JSON
+* **Judul :** Sewa Kost In
+* **Tema Utama:** Sistem Pengelolaan sewa kost
 * **Mata Kuliah:** Dasar-Dasar Pemrograman (DDP)
 * **Institusi:** Program Studi Sistem Informasi, Universitas Mulawarman
 * **Asisten Laboratorium:**
   * Muhammad Davi Aditya Pratama (NIM. 2509116070)
-  * Pratama (NIM. 2509116075)
+  * Hanif Amelia Putri (NIM. 2509116075)
 
 ---
 
