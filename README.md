@@ -19,12 +19,12 @@
 
 ## 2. Anggota Kelompok & Peran Kerja
 
-| No | Nama Mahasiswa | NIM | Peran Utama & Kontribusi |
+| No | Nama Mahasiswa | NIM | Kontribusi |
 | :---: | :--- | :---: | :--- |
-| **1** | [NAMA MAHASISWA 1] | [NIM] | [Koordinator, Logika Program & Coding] |
-| **2** | [NAMA MAHASISWA 2] | [NIM] | [Penyusunan Flowchart & Dokumen Laporan] |
-| **3** | [NAMA MAHASISWA 3] | [NIM] | [Pengembangan Fitur & Testing Bug] |
-| **4** | [NAMA MAHASISWA 4] | [NIM] | [Finishing & Dokumentasi Kode] |
+| **1** | [Dimas Surya Pasyha] | [2609116044] | [Koordinator, Logika Program & Coding] |
+| **2** | [Muhammad Yurcell Nabil] | [2609116073] | [Penyusunan Flowchart & Dokumen Laporan] |
+| **3** | [Arfis Orica Shirena] | [2609116076] | [Pengembangan Fitur & Testing Bug] |
+| **4** | [Fia Hulfiah] | [2609116078] | [Finishing & Dokumentasi Kode] |
 
 ---
 
